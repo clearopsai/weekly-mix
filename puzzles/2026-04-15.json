@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-15",
+  "modality": "image",
+  "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+  "prompt": "a snowy mountain peak at golden hour with dramatic clouds and a clear blue sky, landscape photography",
+  "targets": ["mountain", "snow", "golden", "clouds", "landscape", "sky"],
+  "synonyms": {
+    "mountain": ["peak", "summit", "alpine"],
+    "snow": ["snowy", "white", "snowcapped"],
+    "golden": ["gold", "sunset", "warm"],
+    "clouds": ["cloudy", "sky", "cumulus"],
+    "landscape": ["scenery", "vista", "view"],
+    "sky": ["horizon", "heavens"]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-14",
+  "modality": "image",
+  "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=800&q=80",
+  "prompt": "a curious grey tabby cat staring directly at the camera with bright green eyes, close up portrait",
+  "targets": ["cat", "grey", "green", "eyes", "portrait", "close"],
+  "synonyms": {
+    "cat": ["kitten", "feline", "tabby"],
+    "grey": ["gray", "silver"],
+    "green": ["emerald", "jade"],
+    "eyes": ["gaze", "stare", "pupils"],
+    "portrait": ["headshot", "face"],
+    "close": ["closeup", "macro", "zoom"]
+  }
+}

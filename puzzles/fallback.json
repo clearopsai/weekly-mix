@@ -1,0 +1,15 @@
+{
+  "date": "fallback",
+  "modality": "image",
+  "image": "https://images.unsplash.com/photo-1511300636408-a63a89df3482?w=800&q=80",
+  "prompt": "a vintage red telephone booth standing alone on a foggy london street at dusk, cinematic lighting, moody atmosphere",
+  "targets": ["vintage", "red", "telephone", "london", "fog", "dusk"],
+  "synonyms": {
+    "telephone": ["phone", "booth", "box"],
+    "london": ["british", "england", "uk"],
+    "fog": ["foggy", "mist", "misty"],
+    "dusk": ["evening", "twilight", "sunset"],
+    "vintage": ["old", "retro", "antique"],
+    "red": ["crimson", "scarlet"]
+  }
+}

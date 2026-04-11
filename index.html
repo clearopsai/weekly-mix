@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Weekly Mix. A daily AI puzzle. One a day, share your result.">
+  <meta property="og:title" content="Weekly Mix">
+  <meta property="og:description" content="Guess today's AI prompt. One puzzle per day.">
+  <title>Weekly Mix</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>WEEKLY MIX</h1>
+    <p class="tagline" id="tagline">Daily AI puzzle</p>
+  </header>
+
+  <main id="game">
+    <section id="puzzle-meta">
+      <span id="puzzle-day"></span>
+      <span id="puzzle-number"></span>
+    </section>
+
+    <section id="image-frame">
+      <img id="puzzle-image" alt="Today's AI-generated image" />
+    </section>
+
+    <section id="target-slots" aria-label="Target words to discover">
+      <p class="hint">Guess the prompt. There are <span id="target-count">0</span> target words hiding here.</p>
+      <div id="target-row"></div>
+    </section>
+
+    <section id="guess-area">
+      <form id="guess-form" autocomplete="off">
+        <input
+          id="guess-input"
+          type="text"
+          maxlength="120"
+          placeholder="type a word or phrase..."
+          autocapitalize="off"
+          autocorrect="off"
+          spellcheck="false"
+        />
+        <button type="submit" id="guess-btn">GUESS</button>
+      </form>
+      <p class="guesses-left">
+        Guesses left: <span id="guesses-left">6</span> / 6
+      </p>
+    </section>
+
+    <section id="history" aria-label="Guess history"></section>
+
+    <section id="endgame" class="hidden">
+      <h2 id="endgame-title"></h2>
+      <p id="endgame-subtitle"></p>
+      <pre id="endgame-grid" aria-label="Shareable result grid"></pre>
+      <div id="endgame-actions">
+        <button id="share-btn">COPY RESULT</button>
+        <button id="reveal-btn">SHOW FULL PROMPT</button>
+      </div>
+      <p class="back-tomorrow">Come back tomorrow. One new puzzle every day.</p>
+      <div id="full-prompt" class="hidden">
+        <p class="label">Today's prompt:</p>
+        <p id="full-prompt-text"></p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>one puzzle. every day. no accounts. no ads. no tokens.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
