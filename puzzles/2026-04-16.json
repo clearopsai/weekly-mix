@@ -1,0 +1,17 @@
+{
+  "date": "2026-04-16",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/lone%2Cfigure%2Cworn-out?lock=1775940371",
+  "prompt": "a lone figure in a worn-out coat walking through a desolate, empty, barren, moonlit, snow-covered, rural landscape",
+  "targets": [
+    "lone",
+    "figure",
+    "worn-out",
+    "coat",
+    "walking",
+    "desolate"
+  ],
+  "synonyms": {},
+  "generated_at": "2026-04-11T20:46:11.594703+00:00",
+  "generator": "jarvis-v6"
+}
