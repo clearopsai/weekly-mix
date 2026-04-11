@@ -220,7 +220,7 @@ function buildEmojiGrid() {
       .map((t) => (t === "hit" ? "🟩" : t === "close" ? "🟨" : "⬛"))
       .join("");
   });
-  return header + "\n" + rows.join("\n") + "\nweeklymix.app";
+  return header + "\n" + rows.join("\n") + "\nclearopsai.io/weekly-mix";
 }
 
 // ---- game ----
