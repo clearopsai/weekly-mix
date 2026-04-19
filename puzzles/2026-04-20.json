@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-20",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/small%2Cdilapidated%2Clighthouse?lock=1776641579",
+  "prompt": "a small, dilapidated lighthouse on a rocky cliff overlooking the turbulent ocean waves crashing against the shore, ;",
+  "targets": [
+    "small",
+    "dilapidated",
+    "lighthouse",
+    "rocky",
+    "cliff",
+    "overlooking"
+  ],
+  "synonyms": {
+    "small": [
+      "tiny",
+      "little",
+      "mini"
+    ]
+  },
+  "generated_at": "2026-04-19T23:32:59.236680+00:00",
+  "generator": "jarvis-v6"
+}
