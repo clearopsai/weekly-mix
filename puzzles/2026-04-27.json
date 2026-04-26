@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-27",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/solitary%2Cwoman%2Cdressed?lock=1777246376",
+  "prompt": "A solitary woman, dressed in white, gazes at the setting sun from a rocky cliff overlooking the vast ocean below.",
+  "targets": [
+    "solitary",
+    "woman",
+    "dressed",
+    "white",
+    "gazes",
+    "setting"
+  ],
+  "synonyms": {
+    "woman": [
+      "lady",
+      "girl",
+      "female"
+    ]
+  },
+  "generated_at": "2026-04-26T23:32:56.690088+00:00",
+  "generator": "jarvis-v6"
+}
