@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-04",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/lone%2Cwoman%2Cvintage?lock=1777851131",
+  "prompt": "A lone woman in a vintage raincoat walks down a foggy street at golden hour.",
+  "targets": [
+    "lone",
+    "woman",
+    "vintage",
+    "raincoat",
+    "walks",
+    "down"
+  ],
+  "synonyms": {
+    "woman": [
+      "lady",
+      "girl",
+      "female"
+    ]
+  },
+  "generated_at": "2026-05-03T23:32:11.095770+00:00",
+  "generator": "jarvis-v6"
+}
