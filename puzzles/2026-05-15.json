@@ -1,0 +1,17 @@
+{
+  "date": "2026-05-15",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/code%2Chttps%2Cgithub?lock=1778801897",
+  "prompt": "CODE: https://github.com/ikawrakow/ik_llama.cpp/commit/9cf5f97 GITHUB PR: https://github.com/ikawrakow/ik_llama.cpp/pull/641 TITLE: LLL optimization for NUMA MERGED: 2025 CODE: https://github.com/ikaw",
+  "targets": [
+    "code",
+    "https",
+    "github",
+    "com",
+    "ikawrakow",
+    "llama"
+  ],
+  "synonyms": {},
+  "generated_at": "2026-05-14T23:38:17.799838+00:00",
+  "generator": "jarvis-v6"
+}
