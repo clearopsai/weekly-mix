@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-20",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/woman%2Cvintage%2Cdress?lock=1779233836",
+  "prompt": "a woman in a vintage dress dances in a misty forest under moonlight",
+  "targets": [
+    "woman",
+    "vintage",
+    "dress",
+    "dances",
+    "misty",
+    "forest"
+  ],
+  "synonyms": {
+    "woman": [
+      "lady",
+      "girl",
+      "female"
+    ],
+    "forest": [
+      "woods",
+      "woodland",
+      "trees"
+    ]
+  },
+  "generated_at": "2026-05-19T23:37:16.251752+00:00",
+  "generator": "jarvis-v6"
+}
