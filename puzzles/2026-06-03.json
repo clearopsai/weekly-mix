@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-03",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/woman%2Ccrimson%2Cdress?lock=1780444276",
+  "prompt": "a woman in a crimson dress dances in a misty forest under moonlight",
+  "targets": [
+    "woman",
+    "crimson",
+    "dress",
+    "dances",
+    "misty",
+    "forest"
+  ],
+  "synonyms": {
+    "woman": [
+      "lady",
+      "girl",
+      "female"
+    ],
+    "forest": [
+      "woods",
+      "woodland",
+      "trees"
+    ]
+  },
+  "generated_at": "2026-06-02T23:51:16.221795+00:00",
+  "generator": "jarvis-v6"
+}
