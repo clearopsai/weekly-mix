@@ -1,0 +1,23 @@
+{
+  "date": "2026-07-19",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/dusty%2Cold%2Cmicroscope?lock=1784417576",
+  "prompt": "a dusty old microscope sits on a worn wooden desk near a stack of vintage scientific journals in soft morning light",
+  "targets": [
+    "dusty",
+    "old",
+    "microscope",
+    "sits",
+    "worn",
+    "wooden"
+  ],
+  "synonyms": {
+    "old": [
+      "vintage",
+      "antique",
+      "aged"
+    ]
+  },
+  "generated_at": "2026-07-18T23:32:56.246127+00:00",
+  "generator": "jarvis-v6"
+}
