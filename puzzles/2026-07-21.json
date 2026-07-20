@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-21",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/faded%2Cturquoise%2Cdoor?lock=1784590323",
+  "prompt": "a faded turquoise door with a heavy iron knocker on a narrow cobblestone street at noon",
+  "targets": [
+    "faded",
+    "turquoise",
+    "door",
+    "heavy",
+    "iron",
+    "knocker"
+  ],
+  "synonyms": {},
+  "generated_at": "2026-07-20T23:32:03.702603+00:00",
+  "generator": "jarvis-v6"
+}
