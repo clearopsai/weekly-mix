@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-22",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/shot%2Cvintage%2Ccarousel?lock=1784676843",
+  "prompt": "a cinematic shot of a vintage carousel at night with colorful neon lights",
+  "targets": [
+    "shot",
+    "vintage",
+    "carousel",
+    "night",
+    "colorful",
+    "neon"
+  ],
+  "synonyms": {
+    "night": [
+      "dark",
+      "evening",
+      "midnight"
+    ],
+    "neon": [
+      "glowing",
+      "bright"
+    ]
+  },
+  "generated_at": "2026-07-21T23:34:03.664301+00:00",
+  "generator": "jarvis-v6"
+}
