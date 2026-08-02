@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-03",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/vintage%2Cturquoise%2Cmotorcycle?lock=1785713581",
+  "prompt": "a vintage turquoise motorcycle parked on a deserted main street at dusk",
+  "targets": [
+    "vintage",
+    "turquoise",
+    "motorcycle",
+    "parked",
+    "deserted",
+    "main"
+  ],
+  "synonyms": {},
+  "generated_at": "2026-08-02T23:33:01.196050+00:00",
+  "generator": "jarvis-v6"
+}
