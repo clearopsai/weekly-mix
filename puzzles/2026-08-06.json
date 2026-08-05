@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-06",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/macro%2Cshot%2Ctiny?lock=1785972695",
+  "prompt": "a macro shot of a tiny copper key on a worn wooden piano keyboard",
+  "targets": [
+    "macro",
+    "shot",
+    "tiny",
+    "copper",
+    "key",
+    "worn"
+  ],
+  "synonyms": {},
+  "generated_at": "2026-08-05T23:31:35.114499+00:00",
+  "generator": "jarvis-v6"
+}
