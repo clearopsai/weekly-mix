@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-07",
+  "modality": "image",
+  "image": "https://loremflickr.com/800/800/retro%2Cdiner%2Cneon?lock=1786059002",
+  "prompt": "a retro style diner with a neon sign on a rainy street corner",
+  "targets": [
+    "retro",
+    "diner",
+    "neon",
+    "sign",
+    "rainy",
+    "street"
+  ],
+  "synonyms": {
+    "neon": [
+      "glowing",
+      "bright"
+    ],
+    "street": [
+      "road",
+      "alley",
+      "lane"
+    ]
+  },
+  "generated_at": "2026-08-06T23:30:02.473817+00:00",
+  "generator": "jarvis-v6"
+}
